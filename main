@@ -1,0 +1,5 @@
+void Func()
+{
+cout <<"Hello";
+cout <<"Bye";
+}
